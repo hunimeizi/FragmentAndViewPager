@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tabitem_txt_sel.xml",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable\\tabitem_txt_sel.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_circle.xml",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable\\shape_circle.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_title_txt_sel.xml",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable\\main_title_txt_sel.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_item_main_img_selector.xml",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable\\tab_item_main_img_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_item_dynamic_img_selector.xml",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable\\tab_item_dynamic_img_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_item_message_img_selector.xml",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable\\tab_item_message_img_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_circle.xml",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable\\shape_circle.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_item_person_img_selector.xml",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable\\tab_item_person_img_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_title_txt_sel.xml",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable\\main_title_txt_sel.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_item_main_img_selector.xml",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable\\tab_item_main_img_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tabitem_txt_sel.xml",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable\\tabitem_txt_sel.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_item_person_img_selector.xml",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable\\tab_item_person_img_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_item_message_img_selector.xml",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable\\tab_item_message_img_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_item_dynamic_img_selector.xml",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable\\tab_item_dynamic_img_selector.xml"
+    }
+]

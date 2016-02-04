@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dynamic.xml",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\layout\\fragment_dynamic.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_person.xml",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\layout\\fragment_person.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_make.xml",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\layout\\activity_make.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dynamic.xml",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\layout\\fragment_dynamic.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_make.xml",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\layout\\activity_make.xml"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_person.xml",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\layout\\fragment_person.xml"
+    }
+]

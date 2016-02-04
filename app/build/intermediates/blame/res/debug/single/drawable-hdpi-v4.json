@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_dynamic_normal.png",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_dynamic_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_person_select.png",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_person_select.png"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_dynamic_select.png",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_dynamic_select.png"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_main_normal.png",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_main_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_person_normal.png",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_person_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_message_select.png",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_message_select.png"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_make_select.png",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_make_select.png"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_message_normal.png",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_message_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_view_circle.png",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable-hdpi\\icon_view_circle.png"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_view_circle.png",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon_view_circle.png"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_message_select.png",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_message_select.png"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_make_select.png",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_make_select.png"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_main_normal.png",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_main_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_main_select.png",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_main_select.png"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_dynamic_select.png",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_dynamic_select.png"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_message_normal.png",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_message_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_main_select.png",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_main_select.png"
+    },
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_person_select.png",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_person_select.png"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_person_normal.png",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_person_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_dynamic_normal.png",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_dynamic_normal.png"
+    }
+]

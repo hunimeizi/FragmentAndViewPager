@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\workspace\\TextViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\TextViewDemo1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\FragmentAndViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\FragmentAndViewPager\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
